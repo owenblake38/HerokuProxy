@@ -27,7 +27,7 @@
   "devDependencies": {
     "should": "~3.2.0-beta1",
     "mocha": "~1.18.2",
-    "request": "~2.34.0"
+    "request": "~2.88.2"
   },
   "jshintConfig": {
     "eqeqeq"      : true,
